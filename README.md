@@ -14,11 +14,11 @@ This project visualizes sales data using Python.
    ## 📊 Output Screenshots
 
 ### Sales Over Time (Line Chart)
-![Line Chart](images/Sales_Over_Time.png)
+![Line Chart](Output_Images/Sales_Over_Time.png)
 
 ### Product-wise Sales (Bar Chart)
-![Bar Chart](images/Product_Wise_Sales.png)
+![Bar Chart](Output_Images/Product_Wise_Sales.png)
 
 ### Sales Distribution (Pie Chart)
-![Pie Chart](images/Sales_Distribution.png)
+![Pie Chart](Output_Images/Sales_Distribution.png)
 
